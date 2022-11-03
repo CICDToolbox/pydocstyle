@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/CICDToolbox/">
-        <img src="https://cdn.wolfsoftware.com/assets/images/github/organisations/CICDToolbox/black-and-white-circle-256.png" alt="CICDToolbox logo" />
+        <img src="https://cdn.wolfsoftware.com/assets/images/github/organisations/cicdtoolbox/black-and-white-circle-256.png" alt="CICDToolbox logo" />
     </a>
     <br />
     <a href="https://github.com/CICDToolbox/pydocstyle/actions/workflows/cicd-pipeline-shared.yml">
