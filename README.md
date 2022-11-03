@@ -9,9 +9,6 @@
     <a href="https://github.com/CICDToolbox/pydocstyle/actions/workflows/cicd-pipeline-custom.yml">
         <img src="https://img.shields.io/github/workflow/status/CICDToolbox/pydocstyle/CICD%20Pipeline%20(Custom)/master?label=custom%20pipeline&style=for-the-badge" alt="Github Build Status" />
     </a>
-    <a href="https://codecov.io/gh/CICDToolbox/pydocstyle">
-        <img src="https://img.shields.io/codecov/c/gh/CICDToolbox/pydocstyle?label=code%20coverage&style=for-the-badge" alt="code coverage" />
-    </a>
     <br />
     <a href="https://github.com/CICDToolbox/pydocstyle/blob/master/.github/CODE_OF_CONDUCT.md">
         <img src="https://img.shields.io/badge/Code%20of%20Conduct-blue?style=for-the-badge" />
