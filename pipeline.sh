@@ -126,7 +126,7 @@ function scan_files()
         elif [[ "${filename}" =~ ${FILE_NAME_SEARCH_PATTERN} ]]; then
             check "${filename}"
         fi
-    done < <(find ./.github/workflows -type f -not -path "./.git/*" | sed 's|^./||' | sort -Vf)
+    done < <(find . -type f -not -path "./.git/*" | sed 's|^./||' | sort -Vf)
 }
 
 # -------------------------------------------------------------------------------- #
